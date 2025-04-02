@@ -1,5 +1,3 @@
-package dev.alefiengo
-
 import dev.alefiengo.grpc.GetUserRequest
 import dev.alefiengo.grpc.ListUsersRequest
 import dev.alefiengo.grpc.UserResponse

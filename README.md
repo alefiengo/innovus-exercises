@@ -58,7 +58,7 @@ cd exercise-1
 ```bash
 ./gradlew run
 ```
-
+> You can run the `UserClient` manually from IntelliJ IDEA by right-clicking on the `main` function of `UserClient.kt` and selecting **Run**.
 ---
 
 ## Exercise 2 – gRPC Streaming (ListUsers)
@@ -105,7 +105,7 @@ cd exercise-2
 ```bash
 ./gradlew run
 ```
-
+> You can run the `UserClient` manually from IntelliJ IDEA by right-clicking on the `main` function of `UserClient.kt` and selecting **Run**.
 ---
 
 ## Tech Stack
